@@ -1,1 +1,0 @@
-//initializing a javascript file
