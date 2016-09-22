@@ -46,7 +46,7 @@ function findYin(){
   // for (j=0; j< 10; j++){}
   if(birthY==years){
     createP(Rat + " : " +Yang);
-  } else if(birthY==years+1){
+  } else if(birthY == (years)+1){
     createP(Rabbit + " : " +Yin);
   }else if(birthY==years1){
     createP(Tiger+ " : " +Yang);
